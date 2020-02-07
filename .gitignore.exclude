@@ -1,0 +1,16 @@
+*.py[co]
+*.swp
+*.sqlite*
+*.mysql*
+
+# Installer logs
+pip-log.txt
+
+# Mac Finder
+*.DS_Store
+
+# vscode
+.vscode/*
+
+# Django
+staticfiles/*
