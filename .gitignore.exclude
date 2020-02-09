@@ -11,6 +11,3 @@ pip-log.txt
 
 # vscode
 .vscode/*
-
-# Django
-staticfiles/*
